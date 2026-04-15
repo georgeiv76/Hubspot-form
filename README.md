@@ -102,7 +102,7 @@ Legacy forms (marked ⚠️) are still live in HubSpot but superseded — keep f
  
 ---
  
-## FORM 4 — Security Suite Trial ✅ ACTIVE
+## FORM 4 — Security Suite Trial  ⚠️ LEGACY 
  
 **Website URL:** `https://dedaub.com/pricing/` and `https://dedaub.com/product/security-suite/`
 **HubSpot form name:** Dedaub Security Suite Trial
